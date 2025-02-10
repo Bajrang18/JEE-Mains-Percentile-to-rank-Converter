@@ -74,7 +74,7 @@
                 document.getElementById("result").innerText = "Please enter a valid percentile (0-100).";
                 return;
             }
-            let totalStudents = 1500000; // Approximate number of candidates
+            let totalStudents = 1490000; // Approximate number of candidates
             let estimatedRank = Math.round(((100 - percentile) / 100) * totalStudents);
             document.getElementById("result").innerText = "Your Estimated Rank: " + estimatedRank;
         }
