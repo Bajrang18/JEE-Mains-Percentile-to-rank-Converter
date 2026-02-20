@@ -1,7 +1,7 @@
-# Percentile to Rank Predictor for JEE mains 2025
+# Percentile to Rank Predictor for JEE mains 2026
 
 # Overview
-The Percentile to Rank Predictor is a web application designed to help JEE Mains 2025 aspirants estimate their rank based on their percentile score. This tool provides a quick and accurate prediction based on historical trends and data analysis.
+The Percentile to Rank Predictor is a web application designed to help JEE Mains 2026 aspirants estimate their rank based on their percentile score. This tool provides a quick and accurate prediction based on historical trends and data analysis.
 
 # Features
 
